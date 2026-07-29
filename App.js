@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = "YOUR_COPIED_WEB_APP_URL_HERE";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycby6uKVrdBB7YW3vM8Fa2BTCyUR9_MohbjTe9NgZNf6AOhTge3Y-I-fLT8cAOfWPe7FxtQ/exec";
 
 async function submitRating(ratingValue, userFeedback = "") {
     try {
