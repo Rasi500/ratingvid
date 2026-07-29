@@ -12,7 +12,7 @@
 
 <br/>
 
-[**🚀 Try Live App**](https://Rasi500.github.io/ratinvid) · [**🐛 Report Bug**](https://github.com/Rasi500/Rasi500/issues) · [**✨ Request Feature**](https://github.com/Rasi500/ratingvid/issues)
+[**🚀 Try Live App**](https://Rasi500.github.io/ratinvid) · [**🐛 Report Bug**](https://github.com/Rasi500/ratingvid/issues) · [**✨ Request Feature**](https://github.com/Rasi500/ratingvid/issues)
 
 </div>
 
