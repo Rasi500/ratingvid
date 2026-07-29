@@ -8,7 +8,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_App-2ea44f?style=for-the-badge&logo=github)](https://Rasi500.github.io/ratingvid/)
 [![Average Rating](https://img.shields.io/badge/Rating-4.8%20%E2%AD%90-gold?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue.style=for-the-badge)](LICENSE)
+[![#](https://img.shields.io/badge/License-MIT-blue.style=for-the-badge)](#)
 
 <br/>
 
