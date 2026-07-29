@@ -29,7 +29,7 @@ An interactive video platform that lets users watch video streams in real-time a
 <!-- Option A: Drag and drop an MP4 directly into your README editor on GitHub to replace this URL -->
 https://github.com/user-attachments/assets/taghazzum.mp4
 
-> 💡 **Tip:** Click [**here**](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY) to access the live app and submit your own rating!
+> 💡 **Tip:** Click [**here**](https://Rasi500.github.io/ratingvid) to access the live app and submit your own rating!
 
 ---
 
