@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-// 1. Google Form submission URL (ending in /formResponse)
+// 1. Google Form submission URL
 const FORM_URL = "https://docs.google.com/forms/d/e/1d1KVm49IO4TZT9q46LgHhGfU7KM750ZSRrYihVBa5O8/formResponse";
 
 function App() {
@@ -16,12 +16,10 @@ function App() {
             return;
         }
 
-        // 2. Prepare Form Data payload
+        // 2. Prepare Form Data payload with your entry numbers
         const formData = new FormData();
-
-        // ⚠️ REPLACE THE NUMBERS BELOW WITH YOUR EXACT ENTRY NUMBERS FROM THE CONSOLE
-        formData.append("entry.2134580153", rating);     // Rating field ID (e.g., entry.123456789)
-        formData.append("entry.430487842", feedback);  // Feedback field ID (e.g., entry.987654321)
+        formData.append("entry.2134580153", rating);    // Rating field ID
+        formData.append("entry.430487842", feedback);  // Feedback field ID
 
         try {
             await fetch(FORM_URL, {
@@ -42,9 +40,15 @@ function App() {
         <div style={{ padding: '30px', maxWidth: '600px', margin: '0 auto', fontFamily: 'sans-serif' }}>
             <h1>Video Rating App</h1>
 
-            {/* Optional: Your Video Player Component or iframe goes here */}
-            <div style={{ background: '#000', color: '#fff', padding: '40px', textAlign: 'center', borderRadius: '8px', marginBottom: '20px' }}>
-                <p>[ Video Player Area ]</p>
+            {/* Video Player */}
+            <div style={{ background: '#000', borderRadius: '8px', overflow: 'hidden', marginBottom: '20px' }}>
+                <video controls width="100%" style={{ display: 'block' }}>
+                    <source
+                        src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                        type="video/mp4"
+                    />
+                    Your browser does not support the video tag.
+                </video>
             </div>
 
             {submitted ? (
