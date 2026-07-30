@@ -20,8 +20,8 @@ function App() {
         const formData = new FormData();
 
         // ⚠️ REPLACE THE NUMBERS BELOW WITH YOUR EXACT ENTRY NUMBERS FROM THE CONSOLE
-        formData.append("entry.FIRST_NUMBER", 1308135335);     // Rating field ID (e.g., entry.123456789)
-        formData.append("entry.SECOND_NUMBER", 180233971);  // Feedback field ID (e.g., entry.987654321)
+        formData.append("entry.2134580153", rating);     // Rating field ID (e.g., entry.123456789)
+        formData.append("entry.430487842", feedback);  // Feedback field ID (e.g., entry.987654321)
 
         try {
             await fetch(FORM_URL, {
