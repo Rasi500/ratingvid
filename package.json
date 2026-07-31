@@ -1,8 +1,11 @@
 {
   "name": "ratingvid",
-<<<<<<< HEAD
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "$schema": "https://json.schemastore.org/package.json",
   "private": true,
+  "description": "<!-- HEADER / PROJECT TITLE --> <div align=\"center\">",
+  "main": "App.js",
+  "type": "commonjs",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -13,26 +16,16 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  }
-}
-=======
-  "version": "1.0.0",
-  "description": "<!-- HEADER / PROJECT TITLE --> <div align=\"center\">",
-  "main": "App.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rasi500/ratingvid.git"
+    "url": "git+https://github.com/Rasi500/ratingvid/ratingvid.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Rasi500/ratingvid/issues"
+    "url": "https://github.com/Rasi500/ratingvid/ratingvid/issues"
   },
-  "homepage": "https://github.com/Rasi500/ratingvid#readme"
+  "homepage": "https://github.com/Rasi500/ratingvid/ratingvid#readme"
 }
->>>>>>> ad7f6c13776fd8b72d23a96c93d5a969213854de
