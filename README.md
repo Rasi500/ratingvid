@@ -6,15 +6,14 @@
 
 **Watch, Review, and Share Instant Feedback**
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live_App-2ea44f?style=for-the-badge&logo=github)](https://Rasi500.github.io/ratingvid/)
-[![Average Rating](https://img.shields.io/badge/Rating-4.8%20%E2%AD%90-gold?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue.style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-Live_App-2ea44f?style=for-the-badge&logo=github)](https://Rasi500.github.io/ratingvid/) [![Rating](https://img.shields.io/badge/Rating-4.8%2F5.0-gold?style=for-the-badge)](#) [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#)
 
 <br/>
 
-[**🚀 Try Live App**](https://Rasi500.github.io/ratinvid) · [**🐛 Report Bug**](https://github.com/Rasi500/Rasi500/issues) · [**✨ Request Feature**](https://github.com/Rasi500/ratingvid/issues)
+[**🚀 Try Live App**](https://Rasi500.github.io/Rasi500/) · [**🐛 Report Bug**](https://github.com/Rasi500/ratingvid/issues) · [**✨ Request Feature**](https://github.com/Rasi500/ratingvid/issues)
 
 </div>
+
 
 ---
 
@@ -29,7 +28,7 @@ An interactive video platform that lets users watch video streams in real-time a
 <!-- Option A: Drag and drop an MP4 directly into your README editor on GitHub to replace this URL -->
 https://github.com/user-attachments/assets/taghazzum.mp4
 
-> 💡 **Tip:** Click [**here**](https://YOUR-USERNAME.github.io/YOUR-REPOSITORY) to access the live app and submit your own rating!
+> 💡 **Tip:** Click [**here**](https://Rasi500.github.io/ratingvid) to access the live app and submit your own rating!
 
 ---
 

@@ -1,5 +1,6 @@
 {
   "name": "ratingvid",
+<<<<<<< HEAD
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,3 +15,24 @@
     "eject": "react-scripts eject"
   }
 }
+=======
+  "version": "1.0.0",
+  "description": "<!-- HEADER / PROJECT TITLE --> <div align=\"center\">",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rasi500/ratingvid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rasi500/ratingvid/issues"
+  },
+  "homepage": "https://github.com/Rasi500/ratingvid#readme"
+}
+>>>>>>> ad7f6c13776fd8b72d23a96c93d5a969213854de
